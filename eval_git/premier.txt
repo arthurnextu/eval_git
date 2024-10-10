@@ -1,3 +1,7 @@
 Premiere sauvegarde
 add more content
+<<<<<<< HEAD
 modification on the new branch
+=======
+modif on the second branch
+>>>>>>> second_branch
